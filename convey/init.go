@@ -4,7 +4,7 @@ import (
 	"flag"
 	"os"
 
-	"github.com/jtolds/gls"
+	"github.com/lxhandsome/gls"
 	"github.com/smarty/assertions"
 	"github.com/smartystreets/goconvey/convey/reporting"
 )
